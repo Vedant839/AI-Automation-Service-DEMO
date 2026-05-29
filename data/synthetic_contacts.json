@@ -1,0 +1,50 @@
+[
+  {
+    "student_id": "AST-1001",
+    "parent_name": "Ritika Shah",
+    "parent_phone_label": "+91-XXXXXX1001",
+    "counselor_name": "Nisha Rao"
+  },
+  {
+    "student_id": "AST-1002",
+    "parent_name": "Prakash Patel",
+    "parent_phone_label": "+91-XXXXXX1002",
+    "counselor_name": "Arjun Sen"
+  },
+  {
+    "student_id": "AST-1003",
+    "parent_name": "Meera Raman",
+    "parent_phone_label": "+91-XXXXXX1003",
+    "counselor_name": "Nisha Rao"
+  },
+  {
+    "student_id": "AST-1004",
+    "parent_name": "Vikram Talwar",
+    "parent_phone_label": "+91-XXXXXX1004",
+    "counselor_name": "Arjun Sen"
+  },
+  {
+    "student_id": "AST-1005",
+    "parent_name": "Pooja Mehta",
+    "parent_phone_label": "+91-XXXXXX1005",
+    "counselor_name": "Nisha Rao"
+  },
+  {
+    "student_id": "AST-1006",
+    "parent_name": "Harish Verma",
+    "parent_phone_label": "+91-XXXXXX1006",
+    "counselor_name": "Arjun Sen"
+  },
+  {
+    "student_id": "AST-1007",
+    "parent_name": "Sana Noor",
+    "parent_phone_label": "+91-XXXXXX1007",
+    "counselor_name": "Nisha Rao"
+  },
+  {
+    "student_id": "AST-1008",
+    "parent_name": "Dinesh Desai",
+    "parent_phone_label": "+91-XXXXXX1008",
+    "counselor_name": "Arjun Sen"
+  }
+]

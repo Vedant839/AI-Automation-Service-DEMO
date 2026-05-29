@@ -1,0 +1,56 @@
+[
+  {
+    "id": "faq_course_001",
+    "category": "course",
+    "question": "Which courses are available for class 10 students?",
+    "answer": "AsterLearn Academy offers Class 10 Math Sprint, Science Core, English Skills, and Board Exam Booster batches."
+  },
+  {
+    "id": "faq_course_002",
+    "category": "course",
+    "question": "Do you have a foundation course for JEE or NEET?",
+    "answer": "Yes. The Foundation Plus track introduces JEE and NEET concepts for students in classes 9 and 10."
+  },
+  {
+    "id": "faq_schedule_001",
+    "category": "schedule",
+    "question": "Where can I check my batch schedule?",
+    "answer": "Batch schedules are available in the AsterLearn student portal under My Classes. Schedule changes are also sent through WhatsApp reminders."
+  },
+  {
+    "id": "faq_schedule_002",
+    "category": "schedule",
+    "question": "When are live doubt sessions conducted?",
+    "answer": "Live doubt sessions are held every Tuesday and Friday from 7:00 PM to 8:00 PM for active batches."
+  },
+  {
+    "id": "faq_fee_001",
+    "category": "fees",
+    "question": "Can I pay course fees in installments?",
+    "answer": "Installment options are available for quarterly and annual plans. A counselor can confirm the exact schedule for the selected course."
+  },
+  {
+    "id": "faq_scholarship_001",
+    "category": "scholarship",
+    "question": "How do I apply for a scholarship?",
+    "answer": "Scholarship applications open after the diagnostic test. Submit the application form and diagnostic score through the admissions team."
+  },
+  {
+    "id": "faq_attendance_001",
+    "category": "attendance",
+    "question": "What should I do if I missed a live class?",
+    "answer": "Open the missed class from Recordings in the student portal and complete the recap quiz within 48 hours."
+  },
+  {
+    "id": "faq_doubt_001",
+    "category": "doubts",
+    "question": "How do I ask a doubt after class?",
+    "answer": "Use the Ask a Doubt button in the student portal. A teacher or counselor will respond based on the topic and batch."
+  },
+  {
+    "id": "faq_parent_001",
+    "category": "parents",
+    "question": "Can parents receive progress updates?",
+    "answer": "Yes. Weekly progress summaries can be sent to registered parent contacts when notifications are enabled."
+  }
+]

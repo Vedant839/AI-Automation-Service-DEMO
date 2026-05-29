@@ -1,0 +1,82 @@
+[
+  {
+    "student_id": "AST-1001",
+    "display_name": "Mira S.",
+    "last_active_days_ago": 10,
+    "missed_classes_last_14_days": 3,
+    "latest_score_percent": 42,
+    "previous_score_percent": 66,
+    "frequent_doubts": ["quadratic equations", "graph interpretation", "factorization"],
+    "weak_topics": ["algebra", "coordinate geometry"]
+  },
+  {
+    "student_id": "AST-1002",
+    "display_name": "Dev P.",
+    "last_active_days_ago": 1,
+    "missed_classes_last_14_days": 0,
+    "latest_score_percent": 84,
+    "previous_score_percent": 80,
+    "frequent_doubts": ["chemical bonding"],
+    "weak_topics": ["periodic trends"]
+  },
+  {
+    "student_id": "AST-1003",
+    "display_name": "Anaya R.",
+    "last_active_days_ago": 6,
+    "missed_classes_last_14_days": 2,
+    "latest_score_percent": 57,
+    "previous_score_percent": 76,
+    "frequent_doubts": ["essay structure", "grammar correction"],
+    "weak_topics": ["writing skills", "sentence structure"]
+  },
+  {
+    "student_id": "AST-1004",
+    "display_name": "Kabir T.",
+    "last_active_days_ago": 8,
+    "missed_classes_last_14_days": 1,
+    "latest_score_percent": 74,
+    "previous_score_percent": 78,
+    "frequent_doubts": ["trigonometry identities"],
+    "weak_topics": ["trigonometry"]
+  },
+  {
+    "student_id": "AST-1005",
+    "display_name": "Leela M.",
+    "last_active_days_ago": 3,
+    "missed_classes_last_14_days": 4,
+    "latest_score_percent": 48,
+    "previous_score_percent": 52,
+    "frequent_doubts": ["electric circuits", "ohm's law"],
+    "weak_topics": ["electricity", "numerical problem solving"]
+  },
+  {
+    "student_id": "AST-1006",
+    "display_name": "Rohan V.",
+    "last_active_days_ago": 0,
+    "missed_classes_last_14_days": 0,
+    "latest_score_percent": 91,
+    "previous_score_percent": 89,
+    "frequent_doubts": ["advanced geometry"],
+    "weak_topics": []
+  },
+  {
+    "student_id": "AST-1007",
+    "display_name": "Sara N.",
+    "last_active_days_ago": 12,
+    "missed_classes_last_14_days": 2,
+    "latest_score_percent": 63,
+    "previous_score_percent": 82,
+    "frequent_doubts": ["human eye", "light refraction"],
+    "weak_topics": ["optics", "ray diagrams"]
+  },
+  {
+    "student_id": "AST-1008",
+    "display_name": "Vihaan D.",
+    "last_active_days_ago": 4,
+    "missed_classes_last_14_days": 1,
+    "latest_score_percent": 35,
+    "previous_score_percent": 40,
+    "frequent_doubts": ["linear equations", "word problems"],
+    "weak_topics": ["linear equations", "basic algebra"]
+  }
+]

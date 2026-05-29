@@ -1,0 +1,49 @@
+{
+  "client": {
+    "name": "{{CLIENT_LEGAL_NAME}}",
+    "industry": "{{CLIENT_INDUSTRY}}",
+    "timezone": "{{CLIENT_TIMEZONE}}",
+    "primary_contact": "{{CLIENT_PRIMARY_CONTACT}}",
+    "technical_contact": "{{CLIENT_TECHNICAL_CONTACT}}"
+  },
+  "support_assistant": {
+    "enabled_channels": ["{{CHANNEL_1}}", "{{CHANNEL_2}}"],
+    "handoff_message": "{{HANDOFF_MESSAGE}}",
+    "blocked_sensitive_topics": [
+      "passwords",
+      "government_ids",
+      "banking_information",
+      "full_payment_records"
+    ],
+    "confidence_threshold": 0.72
+  },
+  "engagement_rules": {
+    "inactive_days_threshold": 7,
+    "low_score_threshold_percent": 50,
+    "score_decline_threshold_percent": 15,
+    "missed_classes_threshold": 2,
+    "parent_notification_enabled": true,
+    "counselor_escalation_enabled": true
+  },
+  "teacher_reports": {
+    "enabled": true,
+    "delivery_time_local": "{{REPORT_TIME_LOCAL}}",
+    "delivery_channels": ["{{REPORT_CHANNEL}}"],
+    "include_student_names": false
+  },
+  "integrations": {
+    "crm": {
+      "name": "TBD",
+      "api_base_url": "TBD",
+      "auth_method": "TBD"
+    },
+    "whatsapp": {
+      "provider": "TBD",
+      "template_approval_required": true
+    },
+    "chat_widget": {
+      "provider": "TBD",
+      "embed_location": "TBD"
+    }
+  }
+}
